@@ -8,3 +8,6 @@ GDSAC is an algorithm based on the soft actor-critic (SAC) framework, with its n
 The authors have conducted preliminary tests of GDSAC's performance in different environments of a certain control problem and compared it with SAC and TD3, demonstrating GDSAC's strong performance. According to current experimental results, GDSAC shows significant advantages in learning speed and stability.
 
 In the coming months, the authors plan to open-source the final version of GDSAC and present detailed experimental results.
+
+If you have any suggestions, the authors would appreciate hearing from you.
+E-mail: wangky27@163.com
