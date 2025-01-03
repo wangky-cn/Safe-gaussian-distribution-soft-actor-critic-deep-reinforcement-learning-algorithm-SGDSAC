@@ -1,0 +1,12 @@
+        EXPORTS
+        dllModel_M
+    dllModel_initialize
+            dllModel_step
+        dllModel_terminate
+
+
+                            APUPCMD
+                        Step
+                            InputSignal
+
+
